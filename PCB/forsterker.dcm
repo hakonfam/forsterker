@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: Fri 08 Mar 2013 10:05:15 AM CET
+#
+$CMP PCM510XA
+D TI PCM510xA
+K I2S DAC
+F http://www.ti.com/litv/pdf/slas859a
+$ENDCMP
+#
+$CMP SRC4392
+D TI SRC4392
+K Two-Channel, Asynchronous Sample Rate Converter with Integrated Digital Audio
+F http://www.ti.com/general/docs/lit/getliterature.tsp?literatureNumber=sbfs029d&fileType=pdf
+$ENDCMP
+#
+#End Doc Library
